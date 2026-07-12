@@ -7,28 +7,29 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.8.2</title>
+      <title>VLAN Manager 0.8.3</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v0.8.2</h2>
+<h2>VLAN Manager v0.8.3</h2>
 <ul>
-<li>Découverte KNXnet/IP sur l'interface sélectionnée.</li>
-<li>Découverte BACnet/IP par requête Who-Is.</li>
-<li>Détection ONVIF dédiée pour les caméras et encodeurs.</li>
-<li>Identification métier améliorée dans le scanner réseau.</li>
-<li>Fusion automatique avec les résultats ARP, ping, TCP, mDNS, SSDP et WS-Discovery.</li>
+<li>Identification légère des équipements via leurs interfaces HTTP et HTTPS.</li>
+<li>Reconnaissance améliorée de Crestron, Sonos, 2N, Hikvision, Dahua, Axis, UniFi, Netgear, Araknis, DrayTek, Sony, Samsung et LG.</li>
+<li>Nouvelle colonne « Identification » dans le scanner et dans la fenêtre de résultats.</li>
+<li>Affichage du titre de l’interface Web quand il est disponible.</li>
+<li>Export HTML enrichi avec les informations d’identification.</li>
+<li>Sondes limitées, sans authentification, annulables et exécutées uniquement sur les équipements déjà détectés.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 23:18:26 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 23:23:52 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.8.2"
-        sparkle:shortVersionString="0.8.2"
-        sparkle:sha256="b7b372865620d45b63abf2d4274a65083d987df190f605ca58f22634e8b1b7da"
-        length="44902233"
+        sparkle:version="0.8.3"
+        sparkle:shortVersionString="0.8.3"
+        sparkle:sha256="4673229315ad2f00a7ea3d523a486be6f982998c8a09391c45efa4eb54f81b4b"
+        length="44900733"
         type="application/octet-stream" />
     </item>
   </channel>
