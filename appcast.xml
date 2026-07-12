@@ -7,20 +7,20 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.9.8</title>
+      <title>VLAN Manager 0.9.9</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v0.9.8</h2><ul><li>Quality Gate avant publication.</li><li>Compilation de contrôle avant nettoyage des artefacts.</li><li>Release bloquée immédiatement en cas d’erreur.</li></ul>
+<h2>VLAN Manager v0.9.9</h2><ul><li>Candidate de stabilisation avant v1.0.</li><li>Consolidation du scanner progressif et des performances.</li><li>Sauvegarde avant opérations sensibles et Quality Gate de publication.</li></ul>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 00:20:16 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 00:23:40 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.9.8"
-        sparkle:shortVersionString="0.9.8"
-        sparkle:sha256="315f3a9563d7bb8da04ee112f722e18f7de80c5b84820eaf311676c343d208e1"
-        length="44916353"
+        sparkle:version="0.9.9"
+        sparkle:shortVersionString="0.9.9"
+        sparkle:sha256="07d1b485539b3f62bdc9d9e11de27d55417165e9bc0f8d248d225611af8983a7"
+        length="44911243"
         type="application/octet-stream" />
     </item>
   </channel>
