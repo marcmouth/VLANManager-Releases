@@ -7,27 +7,26 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.5.11</title>
+      <title>VLAN Manager 0.5.12</title>
 
       <description><![CDATA[
-<h2>VLAN Manager 0.5.11</h2>
+<h2>VLAN Manager 0.5.12</h2>
 <ul>
-  <li>Correction du téléchargement des mises à jour quand le fichier temporaire reste verrouillé.</li>
-  <li>Utilisation de noms de fichiers uniques pour éviter les conflits avec d’anciens téléchargements.</li>
-  <li>Fermeture garantie de tous les flux avant la vérification et le lancement de l’installateur.</li>
-  <li>Nettoyage automatique des anciens fichiers de mise à jour.</li>
+  <li>Version de test destinée à valider la mise à jour automatique depuis la v0.5.11.</li>
+  <li>Conservation du mécanisme de téléchargement corrigé avec fichier temporaire unique.</li>
+  <li>Amélioration de la préparation des releases et de la documentation de version.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 15:32:27 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 15:40:56 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.5.11"
-        sparkle:shortVersionString="0.5.11"
-        sparkle:sha256="99ad97e5afd511a32482d93c05628ebe82c2b95c1a5836888f208a999f8a980e"
-        length="44865009"
+        sparkle:version="0.5.12"
+        sparkle:shortVersionString="0.5.12"
+        sparkle:sha256="4ed1c1d1fc7124c8780b994bf707d372ea97b2f75282ff6265c61d36b316493b"
+        length="44869145"
         type="application/octet-stream" />
     </item>
   </channel>
