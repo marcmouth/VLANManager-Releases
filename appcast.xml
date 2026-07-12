@@ -7,25 +7,25 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.5.19</title>
+      <title>VLAN Manager 0.5.20</title>
 
       <description><![CDATA[
-<h2>VLAN Manager 0.5.19</h2>
+<h2>VLAN Manager 0.5.20</h2>
 <ul>
-  <li>Affichage de la fenêtre de progression Inno Setup pendant l'installation d'une mise à jour.</li>
-  <li>Conservation de l'installation silencieuse et de la relance automatique de VLAN Manager.</li>
+  <li>Version de test pour valider l'affichage de la progression d'installation.</li>
+  <li>Validation de la relance automatique après mise à jour.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 16:41:57 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 16:43:22 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.5.19"
-        sparkle:shortVersionString="0.5.19"
-        sparkle:sha256="b08c63bb950df7347b9a0a2e0ea81d516184f88b1ea17add52495c789dc3cc36"
-        length="44868989"
+        sparkle:version="0.5.20"
+        sparkle:shortVersionString="0.5.20"
+        sparkle:sha256="a3eaae921a1ef7ca54474109b16d5b87d5544ad7912635d5f8d734f73c322188"
+        length="44868314"
         type="application/octet-stream" />
     </item>
   </channel>
