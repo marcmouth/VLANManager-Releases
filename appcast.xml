@@ -7,20 +7,20 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.7.0</title>
+      <title>VLAN Manager 0.7.1</title>
 
       <description><![CDATA[
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v0.7.0</title></head><body><h1>VLAN Manager v0.7.0</h1><ul><li>Nouvelle barre de menus Windows : Fichier, Édition, Affichage, Outils et Aide.</li><li>Accès centralisé aux imports, exports, diagnostics, scanner, journal et profils.</li><li>Menu Aide avec mise à jour, notes de version, guide rapide, informations système et À propos.</li><li>Accès explicite à la restauration de la configuration précédente et à la réinitialisation complète.</li><li>Fenêtre principale ouverte maximisée.</li></ul></body></html>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v0.7.1</title></head><body><h1>VLAN Manager v0.7.1</h1><ul><li>Interface allégée après l’ajout de la barre de menus.</li><li>Suppression des boutons globaux faisant doublon : mise à jour, import/export, resynchronisation, restauration et réinitialisation.</li><li>Les actions contextuelles fréquentes restent visibles dans leurs onglets.</li><li>Les actions sensibles restent accessibles dans le menu Outils avec leur état activé ou désactivé selon la configuration.</li><li>Les exports restent disponibles depuis le menu Fichier.</li></ul></body></html>
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 20:09:15 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 20:17:17 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.7.0"
-        sparkle:shortVersionString="0.7.0"
-        sparkle:sha256="99b39e85e80b32cdb031fc62cbdc7bfc72ce6a814e4738064cc6333b0606a96d"
-        length="44892607"
+        sparkle:version="0.7.1"
+        sparkle:shortVersionString="0.7.1"
+        sparkle:sha256="08c77208a14d7c7a4c45b38a0ee0f6d91f41ff8908082012dc61eaa68043c046"
+        length="44875565"
         type="application/octet-stream" />
     </item>
   </channel>
