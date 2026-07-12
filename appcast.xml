@@ -7,20 +7,20 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.6.6</title>
+      <title>VLAN Manager 0.6.7</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v0.6.6</h2><ul><li>Assistant d’adoption fiable des vSwitch existants.</li><li>Aperçu des interfaces, VLAN, IP, DHCP, passerelles, DNS et routes.</li><li>Resynchronisation complète depuis Windows sans modification de la configuration Hyper-V.</li></ul>
+<h2>VLAN Manager v0.6.7</h2><ul><li>Ajout d’un bouton « Réinitialiser la carte réseau » pour repartir d’une configuration saine.</li><li>Suppression contrôlée du vSwitch existant et de ses interfaces vEthernet/VLAN.</li><li>Réactivation de la carte physique et remise d’IPv4 et du DNS en DHCP.</li><li>Double confirmation avec saisie obligatoire de REINITIALISER.</li><li>Vérification finale de l’état de la carte et du mode DHCP.</li></ul>
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 19:24:18 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 19:33:05 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.6.6"
-        sparkle:shortVersionString="0.6.6"
-        sparkle:sha256="2fd9b06faa195df9e3e1dc313ea7c5adf60929ecffedaa3ee386dcd8d1cbf2aa"
-        length="44879267"
+        sparkle:version="0.6.7"
+        sparkle:shortVersionString="0.6.7"
+        sparkle:sha256="d4e7aa2e325891fd1b9c615c726c3d8eb0f995755a64347ab9e5f7548ff08fd6"
+        length="44882461"
         type="application/octet-stream" />
     </item>
   </channel>
