@@ -7,25 +7,26 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.5.15</title>
+      <title>VLAN Manager 0.5.16</title>
 
       <description><![CDATA[
-<h2>VLAN Manager 0.5.15</h2>
+<h2>VLAN Manager 0.5.16</h2>
 <ul>
-  <li>Le bouton de recherche de mise à jour est désormais discret et placé à côté du numéro de version.</li>
-  <li>La barre d’actions principale est allégée pour une interface plus claire.</li>
+  <li>Ajout d’un bouton discret « Agrandir » dans le scanner réseau.</li>
+  <li>Possibilité de basculer rapidement la fenêtre en mode maximisé pour améliorer la lisibilité.</li>
+  <li>Raccourci clavier F11 pour agrandir ou restaurer la fenêtre.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 16:04:11 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 16:12:21 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.5.15"
-        sparkle:shortVersionString="0.5.15"
-        sparkle:sha256="5c1e4d0e8eb650848948aba9ef380c5be00239da7ec027756fcfc283c3a65a01"
-        length="44872322"
+        sparkle:version="0.5.16"
+        sparkle:shortVersionString="0.5.16"
+        sparkle:sha256="3d3c4c16b466cc5262a151d28e20e79257988c7ba280d9b542e0fa31082ea72c"
+        length="44876159"
         type="application/octet-stream" />
     </item>
   </channel>
