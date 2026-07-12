@@ -20,13 +20,13 @@
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 23:27:26 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 23:30:03 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
         sparkle:version="0.8.4"
         sparkle:shortVersionString="0.8.4"
-        sparkle:sha256="81981d74197ce410a07732f991b339d75ca7cdea4b78ebd6194fde82c1ef29f7"
+        sparkle:sha256="41296f7004b3ee0f29c47e36ba6821544562e823ba5f2f941db8a96d556cc5be"
         length="44901316"
         type="application/octet-stream" />
     </item>
