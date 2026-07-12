@@ -7,29 +7,27 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.8.3</title>
+      <title>VLAN Manager 0.8.4</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v0.8.3</h2>
+<h2>VLAN Manager v0.8.4</h2>
 <ul>
-<li>Identification légère des équipements via leurs interfaces HTTP et HTTPS.</li>
-<li>Reconnaissance améliorée de Crestron, Sonos, 2N, Hikvision, Dahua, Axis, UniFi, Netgear, Araknis, DrayTek, Sony, Samsung et LG.</li>
-<li>Nouvelle colonne « Identification » dans le scanner et dans la fenêtre de résultats.</li>
-<li>Affichage du titre de l’interface Web quand il est disponible.</li>
-<li>Export HTML enrichi avec les informations d’identification.</li>
-<li>Sondes limitées, sans authentification, annulables et exécutées uniquement sur les équipements déjà détectés.</li>
+<li>Inventaire enrichi avec état en ligne, emplacement et notes.</li>
+<li>Synchronisation de l’inventaire avec le scan courant.</li>
+<li>Actions rapides Ping, HTTP et HTTPS depuis l’inventaire.</li>
+<li>Fiche équipement modifiable par double-clic.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 23:23:52 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 23:27:26 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.8.3"
-        sparkle:shortVersionString="0.8.3"
-        sparkle:sha256="4673229315ad2f00a7ea3d523a486be6f982998c8a09391c45efa4eb54f81b4b"
-        length="44900733"
+        sparkle:version="0.8.4"
+        sparkle:shortVersionString="0.8.4"
+        sparkle:sha256="81981d74197ce410a07732f991b339d75ca7cdea4b78ebd6194fde82c1ef29f7"
+        length="44901316"
         type="application/octet-stream" />
     </item>
   </channel>
