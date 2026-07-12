@@ -7,28 +7,30 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.8.5</title>
+      <title>VLAN Manager 0.9.0</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v0.8.5</h2>
+<h2>VLAN Manager v0.9.0</h2>
 <ul>
-<li>Nouveau rapport HTML complet par site client.</li>
-<li>Export de l’inventaire, des notes et de l’historique des scans.</li>
-<li>Comparaison automatique avec le dernier scan enregistré lorsqu’un scan courant est disponible.</li>
-<li>Intégration du résumé de la dernière analyse de santé réseau.</li>
-<li>Proposition d’ouvrir le rapport immédiatement après l’export.</li>
+<li>Nouveau moteur centralisé de lecture de l’état réseau Windows et Hyper-V.</li>
+<li>Actualisations réseau dédupliquées : une seule collecte est exécutée lorsque plusieurs écrans demandent le même état simultanément.</li>
+<li>Cache réseau très court de 750 ms pour éviter les relances PowerShell redondantes sans masquer les changements réels.</li>
+<li>Collecte parallèle des cartes, interfaces directes, routes et informations du vSwitch.</li>
+<li>Actualisation complète forcée disponible depuis le menu Affichage pour ignorer le cache.</li>
+<li>Journal enrichi indiquant si les données viennent de Windows/Hyper-V ou du cache réseau.</li>
+<li>Première étape de la refonte performances avant la session PowerShell persistante prévue ultérieurement.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 23:36:29 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 23:40:56 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.8.5"
-        sparkle:shortVersionString="0.8.5"
-        sparkle:sha256="b259e798159481fc438cb836ad689dd4501691253c02827c84be021e6dcbbede"
-        length="44905419"
+        sparkle:version="0.9.0"
+        sparkle:shortVersionString="0.9.0"
+        sparkle:sha256="7c072c7a2127edb5d4bf0de90869ace51ce0e829390c44f33d75b5c89b457d71"
+        length="44911987"
         type="application/octet-stream" />
     </item>
   </channel>
