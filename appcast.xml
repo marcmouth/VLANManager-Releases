@@ -7,27 +7,28 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.8.4</title>
+      <title>VLAN Manager 0.8.5</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v0.8.4</h2>
+<h2>VLAN Manager v0.8.5</h2>
 <ul>
-<li>Inventaire enrichi avec état en ligne, emplacement et notes.</li>
-<li>Synchronisation de l’inventaire avec le scan courant.</li>
-<li>Actions rapides Ping, HTTP et HTTPS depuis l’inventaire.</li>
-<li>Fiche équipement modifiable par double-clic.</li>
+<li>Nouveau rapport HTML complet par site client.</li>
+<li>Export de l’inventaire, des notes et de l’historique des scans.</li>
+<li>Comparaison automatique avec le dernier scan enregistré lorsqu’un scan courant est disponible.</li>
+<li>Intégration du résumé de la dernière analyse de santé réseau.</li>
+<li>Proposition d’ouvrir le rapport immédiatement après l’export.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 23:30:03 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 23:36:29 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.8.4"
-        sparkle:shortVersionString="0.8.4"
-        sparkle:sha256="41296f7004b3ee0f29c47e36ba6821544562e823ba5f2f941db8a96d556cc5be"
-        length="44901316"
+        sparkle:version="0.8.5"
+        sparkle:shortVersionString="0.8.5"
+        sparkle:sha256="b259e798159481fc438cb836ad689dd4501691253c02827c84be021e6dcbbede"
+        length="44905419"
         type="application/octet-stream" />
     </item>
   </channel>
