@@ -7,29 +7,28 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.8.1</title>
+      <title>VLAN Manager 0.8.2</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v0.8.1</h2>
+<h2>VLAN Manager v0.8.2</h2>
 <ul>
-<li>Découverte réseau enrichie avec mDNS.</li>
-<li>Découverte SSDP / UPnP pour les équipements multimédia et connectés.</li>
-<li>Découverte WS-Discovery pour les appareils Windows, imprimantes et équipements compatibles.</li>
-<li>Fusion automatique des résultats UDP avec ICMP, ARP et TCP sans doublon.</li>
-<li>Affichage des protocoles de découverte dans la colonne Services détectés.</li>
-<li>Annulation propre maintenue pendant les nouvelles phases de découverte.</li>
+<li>Découverte KNXnet/IP sur l'interface sélectionnée.</li>
+<li>Découverte BACnet/IP par requête Who-Is.</li>
+<li>Détection ONVIF dédiée pour les caméras et encodeurs.</li>
+<li>Identification métier améliorée dans le scanner réseau.</li>
+<li>Fusion automatique avec les résultats ARP, ping, TCP, mDNS, SSDP et WS-Discovery.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 23:13:57 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 23:18:26 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.8.1"
-        sparkle:shortVersionString="0.8.1"
-        sparkle:sha256="a518774a2efc757594a7f39abc7dc014eb9f5e500d2bb3098880c4b314f59cab"
-        length="44897122"
+        sparkle:version="0.8.2"
+        sparkle:shortVersionString="0.8.2"
+        sparkle:sha256="b7b372865620d45b63abf2d4274a65083d987df190f605ca58f22634e8b1b7da"
+        length="44902233"
         type="application/octet-stream" />
     </item>
   </channel>
