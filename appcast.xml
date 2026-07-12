@@ -7,27 +7,27 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.5.21</title>
+      <title>VLAN Manager 0.6.0</title>
 
       <description><![CDATA[
-<h2>VLAN Manager 0.5.21</h2>
+<h2>VLAN Manager 0.6.0</h2>
 <ul>
-  <li>Séparation fiable entre la route réellement présente et la politique DHCP configurée.</li>
-  <li>Détection explicite des interfaces incohérentes.</li>
-  <li>Nettoyage et vérification des routes après renouvellement DHCP.</li>
-  <li>Exports HTML harmonisés : dates et heures au format français, colonnes de routage détaillées.</li>
+  <li>Journal d’activité local avec export CSV.</li>
+  <li>Mesure des durées des opérations réseau.</li>
+  <li>Format harmonisé : millisecondes sous 1 seconde, secondes à partir de 1 seconde.</li>
+  <li>Optimisations de lisibilité et de diagnostic des performances.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 17:05:27 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:30:54 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.5.21"
-        sparkle:shortVersionString="0.5.21"
-        sparkle:sha256="a6a995555774078470162b62e2d0dfe95eee1c8e58508b8beb9b782b22456fe2"
-        length="44875905"
+        sparkle:version="0.6.0"
+        sparkle:shortVersionString="0.6.0"
+        sparkle:sha256="8e262af9c6edaa7a27574b2e392de916a5d2050f51329f042c38481be288b0a0"
+        length="44881190"
         type="application/octet-stream" />
     </item>
   </channel>
