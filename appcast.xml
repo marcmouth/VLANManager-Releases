@@ -7,28 +7,29 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.6.1</title>
+      <title>VLAN Manager 0.6.2</title>
 
       <description><![CDATA[
-<h2>VLAN Manager 0.6.1</h2>
+<h2>VLAN Manager 0.6.2</h2>
 <ul>
-<li>Bouton <strong>Annuler</strong> pendant les scans réseau.</li>
-<li>Arrêt coopératif des phases de découverte, latence, DNS et détection des services.</li>
-<li>Retour automatique de VLAN Manager au premier plan après fermeture de la fenêtre des résultats.</li>
-<li>Proposition d’ouvrir le rapport de santé réseau après l’export HTML.</li>
-<li>Formats d’export et de durée harmonisés.</li>
+<li>La fenêtre séparée des résultats reprend désormais le panneau complet de l’équipement sélectionné : identification, services, ping, copie IP, HTTP/HTTPS, test TCP, Wake-on-LAN et vérification d’adresse IP.</li>
+<li>Le lien <strong>Annuler</strong> remplace le bouton classique dans l’écran d’attente.</li>
+<li>L’analyse de santé réseau est maintenant annulable proprement entre ses différentes phases.</li>
+<li>Le scanner conserve son annulation coopérative et ses résultats déjà obtenus.</li>
+<li>Retour fiable de la fenêtre principale au premier plan et proposition d’ouverture des exports HTML conservés.</li>
+<li>Formats de durées et d’exports harmonisés.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 17:46:56 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 18:04:15 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.6.1"
-        sparkle:shortVersionString="0.6.1"
-        sparkle:sha256="dcc0dcd4781a2504ddc599440074e4ac8b437476e8983f4cef559661581954eb"
-        length="44874760"
+        sparkle:version="0.6.2"
+        sparkle:shortVersionString="0.6.2"
+        sparkle:sha256="7211922325a80dd5986bc8c0b5257597b142d99049b03afb672387f6c561d7d9"
+        length="44872724"
         type="application/octet-stream" />
     </item>
   </channel>
