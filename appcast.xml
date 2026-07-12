@@ -7,26 +7,26 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.5.13</title>
+      <title>VLAN Manager 0.5.14</title>
 
       <description><![CDATA[
-<h2>VLAN Manager 0.5.13</h2>
+<h2>VLAN Manager 0.5.14</h2>
 <ul>
-  <li>Relance automatique de VLAN Manager après une mise à jour silencieuse.</li>
-  <li>Affichage permanent de la version installée dans l’angle supérieur droit de la fenêtre.</li>
-  <li>Identification dynamique de la version dans les requêtes de mise à jour.</li>
+  <li>Version de validation du système de mise à jour automatique.</li>
+  <li>Vérification de la relance automatique après installation.</li>
+  <li>Vérification de l’affichage de la version actuelle dans la fenêtre.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 15:49:08 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 15:58:11 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.5.13"
-        sparkle:shortVersionString="0.5.13"
-        sparkle:sha256="c79bb3df2a4628430e35a82ef82bbc6a5aca73bbe801f27d837551fcffc9e71d"
-        length="44867858"
+        sparkle:version="0.5.14"
+        sparkle:shortVersionString="0.5.14"
+        sparkle:sha256="104bc116e961287f7e5683955a763889e53785ecb0674ed914006e9fd8d4d8e0"
+        length="44866833"
         type="application/octet-stream" />
     </item>
   </channel>
