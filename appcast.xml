@@ -7,20 +7,20 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.6.8</title>
+      <title>VLAN Manager 0.7.0</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v0.6.8</h2><ul><li>Correction de la détection de la connexion principale derrière un vSwitch Hyper-V externe.</li><li>Priorité donnée à l’adaptateur <code>vEthernet (NomDuSwitch)</code> plutôt qu’à la carte physique partageant parfois la même adresse MAC.</li><li>Lecture de l’adresse IPv4, du mode DHCP, de la route par défaut et de l’état via l’InterfaceIndex réel de l’adaptateur Management OS.</li><li>Gestion conservée du cas où le vSwitch ne possède aucun accès Management OS.</li></ul>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v0.7.0</title></head><body><h1>VLAN Manager v0.7.0</h1><ul><li>Nouvelle barre de menus Windows : Fichier, Édition, Affichage, Outils et Aide.</li><li>Accès centralisé aux imports, exports, diagnostics, scanner, journal et profils.</li><li>Menu Aide avec mise à jour, notes de version, guide rapide, informations système et À propos.</li><li>Accès explicite à la restauration de la configuration précédente et à la réinitialisation complète.</li><li>Fenêtre principale ouverte maximisée.</li></ul></body></html>
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 19:59:06 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 20:09:15 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.6.8"
-        sparkle:shortVersionString="0.6.8"
-        sparkle:sha256="3e85c3a5121dcc5a93cff265035e23d197b42dceee8f98eca4269d9839657228"
-        length="44877229"
+        sparkle:version="0.7.0"
+        sparkle:shortVersionString="0.7.0"
+        sparkle:sha256="99b39e85e80b32cdb031fc62cbdc7bfc72ce6a814e4738064cc6333b0606a96d"
+        length="44892607"
         type="application/octet-stream" />
     </item>
   </channel>
