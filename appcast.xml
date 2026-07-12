@@ -10,17 +10,17 @@
       <title>VLAN Manager 0.6.5</title>
 
       <description><![CDATA[
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v0.6.5</title></head><body><h1>VLAN Manager v0.6.5</h1><ul><li>La fenêtre principale s’ouvre désormais maximisée.</li><li>Correction de l’overlay lors de l’enregistrement et de l’importation des profils chantier.</li><li>Le message de l’overlay est maintenant indépendant du journal et de la barre d’état.</li><li>Messages dédiés : « Enregistrement du profil… », « Importation du profil… » et « Application du profil… ».</li><li>Réinitialisation systématique du message temporaire à la fermeture de l’overlay.</li></ul></body></html>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v0.6.5</title></head><body><h2>Correction vSwitch externe existant</h2><ul><li>Adoption fiable sans supposer que l’interface IP porte le nom de la carte physique.</li><li>Recherche par MAC et InterfaceIndex, prise en charge d’un vSwitch sans interface de gestion.</li><li>Messages PowerShell nettoyés au lieu d’afficher du CLIXML brut.</li></ul><h1>VLAN Manager v0.6.5</h1><ul><li>La fenêtre principale s’ouvre désormais maximisée.</li><li>Correction de l’overlay lors de l’enregistrement et de l’importation des profils chantier.</li><li>Le message de l’overlay est maintenant indépendant du journal et de la barre d’état.</li><li>Messages dédiés : « Enregistrement du profil… », « Importation du profil… » et « Application du profil… ».</li><li>Réinitialisation systématique du message temporaire à la fermeture de l’overlay.</li></ul></body></html>
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 19:04:30 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 19:09:42 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
         sparkle:version="0.6.5"
         sparkle:shortVersionString="0.6.5"
-        sparkle:sha256="cbefd1dff315032398874c6239b6e155ec7522b4e7531aba37f75f59ecdaf1f2"
-        length="44869867"
+        sparkle:sha256="837943fbb0274c0c10573c8c09a61cd7b02f25a24ed9a4a790e05fea54d4a23c"
+        length="44880624"
         type="application/octet-stream" />
     </item>
   </channel>
