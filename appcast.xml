@@ -7,27 +7,28 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.6.0</title>
+      <title>VLAN Manager 0.6.1</title>
 
       <description><![CDATA[
-<h2>VLAN Manager 0.6.0</h2>
+<h2>VLAN Manager 0.6.1</h2>
 <ul>
-  <li>Journal d’activité local avec export CSV.</li>
-  <li>Mesure des durées des opérations réseau.</li>
-  <li>Format harmonisé : millisecondes sous 1 seconde, secondes à partir de 1 seconde.</li>
-  <li>Optimisations de lisibilité et de diagnostic des performances.</li>
+<li>Bouton <strong>Annuler</strong> pendant les scans réseau.</li>
+<li>Arrêt coopératif des phases de découverte, latence, DNS et détection des services.</li>
+<li>Retour automatique de VLAN Manager au premier plan après fermeture de la fenêtre des résultats.</li>
+<li>Proposition d’ouvrir le rapport de santé réseau après l’export HTML.</li>
+<li>Formats d’export et de durée harmonisés.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 17:30:54 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 17:46:56 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.6.0"
-        sparkle:shortVersionString="0.6.0"
-        sparkle:sha256="8e262af9c6edaa7a27574b2e392de916a5d2050f51329f042c38481be288b0a0"
-        length="44881190"
+        sparkle:version="0.6.1"
+        sparkle:shortVersionString="0.6.1"
+        sparkle:sha256="dcc0dcd4781a2504ddc599440074e4ac8b437476e8983f4cef559661581954eb"
+        length="44874760"
         type="application/octet-stream" />
     </item>
   </channel>
