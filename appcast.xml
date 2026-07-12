@@ -7,20 +7,20 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.6.3</title>
+      <title>VLAN Manager 0.6.4</title>
 
       <description><![CDATA[
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v0.6.3</title></head><body><h1>VLAN Manager v0.6.3</h1><ul><li>Suppression de l’onglet Intervention rapide.</li><li>Intégration des Tests métier dans le Scanner réseau.</li><li>Lancement d’un profil préenregistré sur l’équipement sélectionné.</li><li>Fonction disponible dans la fenêtre principale et dans la fenêtre séparée des résultats.</li><li>Annulation propre des tests métier et durées harmonisées.</li></ul></body></html>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v0.6.4</title></head><body><h1>VLAN Manager v0.6.4</h1><ul><li>Déplacement de la vérification d’adresse IP à droite de la sélection de plage du scanner.</li><li>Remplacement de la plage personnalisée CIDR par une adresse IP de début et une adresse IP de fin.</li><li>Validation du format IPv4, de l’ordre de la plage et limitation à 1 024 adresses.</li><li>Le scanner et la détection ARP respectent strictement la plage personnalisée saisie.</li><li>Nom d’export des profils chantier au format « VLAN Manager - profil 'Nom du profil' ».</li></ul></body></html>
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 18:18:55 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 18:38:34 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.6.3"
-        sparkle:shortVersionString="0.6.3"
-        sparkle:sha256="4f6438e96add564a038d7a12f70662d3331f9ceac642af6b9d1c2b51565d6ecc"
-        length="44874962"
+        sparkle:version="0.6.4"
+        sparkle:shortVersionString="0.6.4"
+        sparkle:sha256="82b9e2a4341fd9081a7ae39ad80b2289184320ff4daefd86590f7ffe15efc6c0"
+        length="44882570"
         type="application/octet-stream" />
     </item>
   </channel>
