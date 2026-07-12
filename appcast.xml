@@ -7,20 +7,21 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.7.2</title>
+      <title>VLAN Manager 0.7.3</title>
 
       <description><![CDATA[
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v0.7.2</title></head><body><h1>VLAN Manager v0.7.2</h1><ul><li>Correction de la fenêtre « Afficher la configuration ».</li><li>La connexion principale et les interfaces VLAN utilisent désormais la même résolution fiable des adaptateurs Hyper-V.</li><li>Priorité aux alias <code>vEthernet (...)</code>, puis correspondance MAC avec préférence pour les adaptateurs virtuels.</li><li>Lecture IPv4, DHCP, passerelle et DNS par <code>InterfaceIndex</code>.</li><li>Ajout de l’index d’interface dans le résumé pour faciliter le diagnostic.</li></ul></body></html>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v0.7.3</title></head><body><h1>VLAN Manager v0.7.3</h1><ul><li>Nouvelle fenêtre de mise à jour plus aérée et mieux organisée.</li><li>Séparation claire entre la version installée, la nouvelle version et les notes de version.</li><li>Notes affichées dans une zone dédiée avec défilement.</li><li>Suppression automatique des titres et lignes dupliqués dans les notes.</li><li>Boutons renommés « Télécharger et installer » et « Plus tard ».</li><li>Renommage de l’onglet « Profils chantier » en « Profils », y compris dans le menu Affichage.</li></ul></body></html>
+
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 20:23:40 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 20:34:34 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.7.2"
-        sparkle:shortVersionString="0.7.2"
-        sparkle:sha256="85024776c58cc4c1bf562351ae496e3cffaea3a1b3965383db33f0c8fe258501"
-        length="44891396"
+        sparkle:version="0.7.3"
+        sparkle:shortVersionString="0.7.3"
+        sparkle:sha256="d6f3cc792c60b99c1a8ba8104b0e91d7eaf27bf2c1daab381f1715c26076e672"
+        length="44885351"
         type="application/octet-stream" />
     </item>
   </channel>
