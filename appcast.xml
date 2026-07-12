@@ -7,24 +7,28 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.5.9</title>
+      <title>VLAN Manager 0.5.10</title>
 
       <description><![CDATA[
-<h2>VLAN Manager 0.5.9</h2>
+<h2>VLAN Manager 0.5.10</h2>
 <ul>
-  <li>Test du systÃ¨me de mise Ã  jour automatique.</li>
-  <li>Correction de l'encodage de l'installateur.</li>
+  <li>Ajout d’une documentation complète sur la gestion des versions.</li>
+  <li>Ajout d’un workflow automatisé pour compiler et publier sur GitHub.</li>
+  <li>Ajout d’un script de sauvegarde du code source.</li>
+  <li>Correction du cache lors de la recherche de mises à jour.</li>
+  <li>Amélioration de l’encodage UTF-8 des notes et de l’installateur.</li>
 </ul>
+
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 15:13:11 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 15:21:42 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.5.9"
-        sparkle:shortVersionString="0.5.9"
-        sparkle:sha256="7d71abfc80080f606d1e16aa51c63c5af14d5cc2a8787e083d1d05a23e1beae3"
-        length="44869984"
+        sparkle:version="0.5.10"
+        sparkle:shortVersionString="0.5.10"
+        sparkle:sha256="95230f378341b58ce6aca059f586d83d80d28cb928a74a51e8436db95d709b55"
+        length="44866643"
         type="application/octet-stream" />
     </item>
   </channel>
