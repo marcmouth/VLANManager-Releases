@@ -7,30 +7,28 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.9.0</title>
+      <title>VLAN Manager 0.9.1</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v0.9.0</h2>
+<h2>VLAN Manager v0.9.1</h2>
 <ul>
-<li>Nouveau moteur centralisé de lecture de l’état réseau Windows et Hyper-V.</li>
-<li>Actualisations réseau dédupliquées : une seule collecte est exécutée lorsque plusieurs écrans demandent le même état simultanément.</li>
-<li>Cache réseau très court de 750 ms pour éviter les relances PowerShell redondantes sans masquer les changements réels.</li>
-<li>Collecte parallèle des cartes, interfaces directes, routes et informations du vSwitch.</li>
-<li>Actualisation complète forcée disponible depuis le menu Affichage pour ignorer le cache.</li>
-<li>Journal enrichi indiquant si les données viennent de Windows/Hyper-V ou du cache réseau.</li>
-<li>Première étape de la refonte performances avant la session PowerShell persistante prévue ultérieurement.</li>
+<li>Actualisation incrémentale par composant au lieu de relire systématiquement tout Windows et Hyper-V.</li>
+<li>Cache adaptatif : cartes physiques 5 s, vSwitch 3 s, interfaces et routes 1 s.</li>
+<li>Déduplication conservée pour empêcher plusieurs collectes concurrentes.</li>
+<li>Journal détaillant précisément les composants relus et ceux réutilisés.</li>
+<li>L’actualisation complète force toujours une relecture intégrale.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 23:40:56 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 23:50:01 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.9.0"
-        sparkle:shortVersionString="0.9.0"
-        sparkle:sha256="7c072c7a2127edb5d4bf0de90869ace51ce0e829390c44f33d75b5c89b457d71"
-        length="44911987"
+        sparkle:version="0.9.1"
+        sparkle:shortVersionString="0.9.1"
+        sparkle:sha256="6c47617a712883e86ee854b1d7f7919edbb348a75b957ad8a281a367afa83b04"
+        length="44909948"
         type="application/octet-stream" />
     </item>
   </channel>
