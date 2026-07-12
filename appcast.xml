@@ -7,31 +7,29 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.8.0</title>
+      <title>VLAN Manager 0.8.1</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v0.8.0</h2>
+<h2>VLAN Manager v0.8.1</h2>
 <ul>
-<li>Nouveau module <strong>Sites et inventaire</strong> pour organiser les interventions par client ou chantier.</li>
-<li>Inventaire local des équipements détectés avec IP, MAC, constructeur, type et dernière détection.</li>
-<li>Historique des scans par site, limité aux 30 derniers instantanés.</li>
-<li>Comparaison d’un scan actuel avec un ancien scan : nouveaux équipements, disparitions, changements d’IP et de services.</li>
-<li>Enregistrement direct du device sélectionné dans l’inventaire.</li>
-<li>Relance automatique de l’analyse de santé après correction des routes DHCP.</li>
-<li>Retour du pourcentage visible pendant le téléchargement des mises à jour.</li>
-<li>Ouverture maximisée et interface/menu conservés.</li>
+<li>Découverte réseau enrichie avec mDNS.</li>
+<li>Découverte SSDP / UPnP pour les équipements multimédia et connectés.</li>
+<li>Découverte WS-Discovery pour les appareils Windows, imprimantes et équipements compatibles.</li>
+<li>Fusion automatique des résultats UDP avec ICMP, ARP et TCP sans doublon.</li>
+<li>Affichage des protocoles de découverte dans la colonne Services détectés.</li>
+<li>Annulation propre maintenue pendant les nouvelles phases de découverte.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 22:45:05 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 23:13:57 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.8.0"
-        sparkle:shortVersionString="0.8.0"
-        sparkle:sha256="a8772553b664c7f4222dd8553cda5dcba9f4c796a1366cd722130e3c4ecdcf97"
-        length="44895723"
+        sparkle:version="0.8.1"
+        sparkle:shortVersionString="0.8.1"
+        sparkle:sha256="a518774a2efc757594a7f39abc7dc014eb9f5e500d2bb3098880c4b314f59cab"
+        length="44897122"
         type="application/octet-stream" />
     </item>
   </channel>
