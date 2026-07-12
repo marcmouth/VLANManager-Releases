@@ -7,20 +7,20 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.9.6</title>
+      <title>VLAN Manager 0.9.7</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v0.9.6</h2><ul><li>Progression détaillée du scanner réseau.</li><li>Affichage de la phase en cours et du nombre d’équipements trouvés.</li><li>Annulation disponible pendant le scan.</li></ul>
+<h2>VLAN Manager v0.9.7</h2><ul><li>Sauvegarde automatique avant les opérations réseau destructives.</li><li>Conservation des 20 derniers instantanés dans le profil utilisateur.</li><li>Traçabilité dans le journal.</li></ul>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 00:17:02 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 00:18:47 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.9.6"
-        sparkle:shortVersionString="0.9.6"
-        sparkle:sha256="086f996df6ee0d3ebc25acfde484f204da72a76a219e01101491fc71570fa2b6"
-        length="44914070"
+        sparkle:version="0.9.7"
+        sparkle:shortVersionString="0.9.7"
+        sparkle:sha256="087413f75a447ec64a4e74a70f74cf1f3924875010921077b8dc6f1e3b9e3084"
+        length="44920218"
         type="application/octet-stream" />
     </item>
   </channel>
