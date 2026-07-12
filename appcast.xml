@@ -1,1 +1,33 @@
-Release\appcast.xml
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+
+  <channel>
+    <title>Mises à jour VLAN Manager</title>
+    <description>Canal stable de VLAN Manager</description>
+    <language>fr-fr</language>
+
+    <item>
+      <title>VLAN Manager 0.5.9</title>
+
+      <description><![CDATA[
+        <h2>VLAN Manager 0.5.9</h2>
+        <ul>
+          <li>Test du système de mise à jour automatique.</li>
+          <li>Correction de l’encodage de l’installateur.</li>
+        </ul>
+      ]]></description>
+
+      <pubDate>Sun, 12 Jul 2026 15:02:05 +02:00</pubDate>
+
+      <enclosure
+        url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
+        sparkle:version="0.5.9"
+        sparkle:shortVersionString="0.5.9"
+        sparkle:sha256="de13d43af32a1044eedc7dcb02839628172359f0db325d63ab37027bfb495283"
+        length="44869984"
+        type="application/octet-stream" />
+    </item>
+
+  </channel>
+</rss>
