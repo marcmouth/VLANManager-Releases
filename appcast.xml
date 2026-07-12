@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Mises à jour VLAN Manager</title>
+    <description>Canal stable de VLAN Manager</description>
+    <language>fr-fr</language>
+
+    <item>
+      <title>VLAN Manager 0.5.8.1</title>
+
+      <description><![CDATA[
+<h2>VLAN Manager 0.5.8.1</h2>
+<ul>
+  <li>Ajout de la recherche automatique et manuelle des mises Ã  jour.</li>
+  <li>TÃ©lÃ©chargement sÃ©curisÃ© depuis GitHub Releases.</li>
+  <li>VÃ©rification SHA-256 facultative de lâ€™installateur.</li>
+  <li>Scripts de publication et de crÃ©ation du Setup simplifiÃ©s.</li>
+</ul>
+
+      ]]></description>
+
+      <pubDate>Sun, 12 Jul 2026 14:49:40 +02:00</pubDate>
+
+      <enclosure
+        url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
+        sparkle:version="0.5.8.1"
+        sparkle:shortVersionString="0.5.8.1"
+        sparkle:sha256="e076114d0b8e24419801b1d5bb716d1d024fee41476079d05ceca46267374a05"
+        length="44868612"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
