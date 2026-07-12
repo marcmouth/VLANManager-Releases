@@ -7,26 +7,26 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.5.17</title>
+      <title>VLAN Manager 0.5.18</title>
 
       <description><![CDATA[
-<h2>VLAN Manager 0.5.17</h2>
+<h2>VLAN Manager 0.5.18</h2>
 <ul>
-  <li>Ouverture des résultats du scanner dans une fenêtre indépendante et redimensionnable.</li>
-  <li>Export complet des résultats du scan au format HTML.</li>
-  <li>Suppression du mode F11 qui agrandissait toute la fenêtre principale.</li>
+  <li>Format des heures d’export amélioré : 16h27 au lieu de 1627.</li>
+  <li>Affichage uniforme des versions au format vX.X.X.</li>
+  <li>Suppression du quatrième chiffre dans les messages de mise à jour et l’en-tête.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 16:21:34 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 16:34:13 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.5.17"
-        sparkle:shortVersionString="0.5.17"
-        sparkle:sha256="e14ea94b63284d98b1e8e55316dda34a10978d4612ff84c59d0a43fb8964190b"
-        length="44869961"
+        sparkle:version="0.5.18"
+        sparkle:shortVersionString="0.5.18"
+        sparkle:sha256="cf2f1ebca07a2826984de239211960a40f8a463c2693c6311a592dc5ab1d07dd"
+        length="44871642"
         type="application/octet-stream" />
     </item>
   </channel>
