@@ -7,10 +7,10 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.9.4</title>
+      <title>VLAN Manager 0.9.5</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v0.9.4</h2>
+<h2>VLAN Manager v0.9.5</h2>
 <ul>
 <li>Actualisation rapide de l’onglet Routes sans collecte Hyper-V complète.</li>
 <li>Invalidation ciblée du cache après modification réseau.</li>
@@ -21,14 +21,14 @@
 
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 00:05:28 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 00:11:25 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.9.4"
-        sparkle:shortVersionString="0.9.4"
-        sparkle:sha256="09f67491eacaaa6ba223aa9b8b12c1db1ddae34f0201df0893cc01f0f49bb76b"
-        length="44909578"
+        sparkle:version="0.9.5"
+        sparkle:shortVersionString="0.9.5"
+        sparkle:sha256="17621638bb6bc4826684d354a9591dbaaedf7f9fb3d8a2dda654fbcd4ef0d478"
+        length="44919774"
         type="application/octet-stream" />
     </item>
   </channel>
