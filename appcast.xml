@@ -7,26 +7,26 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 0.5.16</title>
+      <title>VLAN Manager 0.5.17</title>
 
       <description><![CDATA[
-<h2>VLAN Manager 0.5.16</h2>
+<h2>VLAN Manager 0.5.17</h2>
 <ul>
-  <li>Ajout d’un bouton discret « Agrandir » dans le scanner réseau.</li>
-  <li>Possibilité de basculer rapidement la fenêtre en mode maximisé pour améliorer la lisibilité.</li>
-  <li>Raccourci clavier F11 pour agrandir ou restaurer la fenêtre.</li>
+  <li>Ouverture des résultats du scanner dans une fenêtre indépendante et redimensionnable.</li>
+  <li>Export complet des résultats du scan au format HTML.</li>
+  <li>Suppression du mode F11 qui agrandissait toute la fenêtre principale.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Sun, 12 Jul 2026 16:12:21 +02:00</pubDate>
+      <pubDate>Sun, 12 Jul 2026 16:21:34 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="0.5.16"
-        sparkle:shortVersionString="0.5.16"
-        sparkle:sha256="3d3c4c16b466cc5262a151d28e20e79257988c7ba280d9b542e0fa31082ea72c"
-        length="44876159"
+        sparkle:version="0.5.17"
+        sparkle:shortVersionString="0.5.17"
+        sparkle:sha256="e14ea94b63284d98b1e8e55316dda34a10978d4612ff84c59d0a43fb8964190b"
+        length="44869961"
         type="application/octet-stream" />
     </item>
   </channel>
