@@ -7,29 +7,20 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.0.9</title>
+      <title>VLAN Manager 1.0.10</title>
 
       <description><![CDATA[
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v1.0.9</title></head><body>
-<h1>VLAN Manager v1.0.9</h1>
-<ul>
-<li>Menu contextuel enrichi dans les résultats du scanner principal et dans la fenêtre séparée.</li>
-<li>Ajout direct d’un ou plusieurs équipements sélectionnés à l’inventaire du site actif.</li>
-<li>Raccourcis contextuels pour ping détaillé, HTTP, HTTPS, Wake-on-LAN et préparation des tests métier.</li>
-<li>Prise en charge de la sélection multiple pour l’ajout à l’inventaire et le Wake-on-LAN.</li>
-<li>Messages clairs lorsqu’aucun site actif, aucune MAC ou aucune interface source exploitable n’est disponible.</li>
-</ul></body></html>
-
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v1.0.10</title></head><body><h1>VLAN Manager v1.0.10</h1><ul><li>Wake-on-LAN depuis l’inventaire avec détection automatique de toutes les interfaces IPv4 actives, y compris le Wi-Fi.</li><li>Sélection multiple dans l’inventaire avec Ctrl et Maj.</li><li>Suppression en lot des équipements sélectionnés.</li><li>Wake-on-LAN en lot depuis le menu contextuel.</li><li>Recherche automatique des mises à jour toutes les 24 heures tant que VLAN Manager reste ouvert.</li></ul></body></html>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 13:50:41 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 14:02:54 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.0.9"
-        sparkle:shortVersionString="1.0.9"
-        sparkle:sha256="5649678a05717e7fdd1e8ee8e6d2df90517282ee0bc41607441672ee0b5e72c4"
-        length="44931713"
+        sparkle:version="1.0.10"
+        sparkle:shortVersionString="1.0.10"
+        sparkle:sha256="19e5c0f68a9383a445f1b08b74200a5c1708bb76889fe6740c5d868125d22933"
+        length="44919718"
         type="application/octet-stream" />
     </item>
   </channel>
