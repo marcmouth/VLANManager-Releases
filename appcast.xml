@@ -7,29 +7,28 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.0.13</title>
+      <title>VLAN Manager 1.0.14</title>
 
       <description><![CDATA[
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v1.0.13</title></head><body>
-<h1>VLAN Manager v1.0.13</h1>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v1.0.14</title></head><body>
+<h1>VLAN Manager v1.0.14</h1>
 <ul>
-<li>La barre d’état située en bas s’efface automatiquement après 15 secondes.</li>
-<li>L’onglet Journal est placé en dernière position.</li>
-<li>La fenêtre Notes de version affiche désormais l’historique complet des versions.</li>
-<li>Correction définitive des titres de version concaténés dans les nouveautés.</li>
-<li>Analyse des routes enrichie : type, interface, origine, état, métriques et anomalies.</li>
-<li>Progression détaillée pendant l’actualisation de la table de routage.</li>
+<li>Progression détaillée pour les diagnostics réseau et l’analyse de santé.</li>
+<li>Correction automatique au démarrage des routes DHCP indésirables sur les VLAN qui ignorent les routes par défaut.</li>
+<li>Boutons harmonisés et libellé unique « Corriger les routes DHCP » dans les onglets Santé réseau et Routes.</li>
+<li>Zone de détails de l’installateur intégrée proprement, sans débordement sur les boutons.</li>
+<li>Analyse des routes enrichie conservée avec progression et recommandations.</li>
 </ul></body></html>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 15:07:46 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 15:33:18 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.0.13"
-        sparkle:shortVersionString="1.0.13"
-        sparkle:sha256="0f7e37e106d492e216eaf3265525db957bbc6c3bc472d733685f90f635e0bf81"
-        length="44942298"
+        sparkle:version="1.0.14"
+        sparkle:shortVersionString="1.0.14"
+        sparkle:sha256="b9001e73597d009e1d837a2b663feb764a5b44228acfbffc9b4a7fe8c5f79628"
+        length="44934322"
         type="application/octet-stream" />
     </item>
   </channel>
