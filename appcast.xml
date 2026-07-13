@@ -7,20 +7,24 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.2.9</title>
+      <title>VLAN Manager 1.2.11</title>
 
       <description><![CDATA[
-<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.2.8</title></head><body><h1>VLAN Manager v1.2.8</h1><ul><li>Fenêtre d’attente stabilisée pendant le défilement des détails.</li><li>Dimensions fixes du popup, du message et de la zone de journal.</li><li>Défilement automatique conservé sans effet de sautillement.</li></ul></body></html>
+<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.2.11</title></head><body><h1>VLAN Manager v1.2.11</h1><ul><li>Ascenseur masqué dans la liste des tâches du popup.</li><li>Défilement automatique des étapes conservé sans barre verticale visible.</li>  <li>Validation renforcée du VLAN ID (1 à 4094).</li>
+  <li>Saisie IPv4 filtrée et contrôlée pour l’adresse, la passerelle et les DNS.</li>
+  <li>Conversion dynamique du CIDR en masque de sous-réseau.</li>
+  <li>Avertissement convivial lorsqu’une interface existe déjà.</li>
+</ul></body></html>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 22:09:08 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 22:26:53 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.2.9"
-        sparkle:shortVersionString="1.2.9"
-        sparkle:sha256="1588b9af869a079f4ffc57b63d11296830f587b5aa2a196e2f36e59eb141959e"
-        length="44959943"
+        sparkle:version="1.2.11"
+        sparkle:shortVersionString="1.2.11"
+        sparkle:sha256="b03e66094921e248d05eac1cfc9a934a696f726eced28a3a5ad5582e2c387154"
+        length="44953844"
         type="application/octet-stream" />
     </item>
   </channel>
