@@ -7,20 +7,20 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.1.1</title>
+      <title>VLAN Manager 1.1.2</title>
 
       <description><![CDATA[
-<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.1.1</title></head><body><h1>VLAN Manager v1.1.1 bêta</h1><ul><li>Overlay des opérations réseau plus léger et limité à la zone de travail.</li><li>Correction des routes DHCP avec détails et progression.</li><li>Bandeau inférieur sans sursaut, masqué après 10 secondes.</li><li>Onglets modernisés et moins proches du style Windows classique.</li></ul></body></html>
+<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.1.2</title></head><body><h1>VLAN Manager v1.1.2 bêta</h1><ul><li>Navigation principale présentée comme une rangée de boutons indépendants.</li><li>Angles des boutons d’onglets harmonisés avec un CornerRadius de 4.</li><li>États actif, inactif et survol conservés avec une apparence plus compacte.</li><li>Espacement des boutons de navigation ajusté pour une lecture plus claire.</li></ul></body></html>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 16:51:09 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 17:05:41 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.1.1"
-        sparkle:shortVersionString="1.1.1"
-        sparkle:sha256="6534ba8af1d1a0f4fec86e0c88cdd7f04f435c7421bfda40b574858dbcccdf7c"
-        length="44942269"
+        sparkle:version="1.1.2"
+        sparkle:shortVersionString="1.1.2"
+        sparkle:sha256="0b123ab5e737611bd96816418858f4ebaeccdd8ed7287871b15bf0e8c84cf112"
+        length="44946171"
         type="application/octet-stream" />
     </item>
   </channel>
