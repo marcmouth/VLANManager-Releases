@@ -7,20 +7,20 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.2.7</title>
+      <title>VLAN Manager 1.2.8</title>
 
       <description><![CDATA[
-<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.2.7</title></head><body><h1>VLAN Manager v1.2.7</h1><ul><li>Détails progressifs pendant la création et la modification des VLAN.</li><li>Progression et temps écoulé visibles durant l’opération.</li><li>Défilement automatique des étapes de configuration et de vérification.</li></ul></body></html>
+<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.2.8</title></head><body><h1>VLAN Manager v1.2.8</h1><ul><li>Fenêtre d’attente stabilisée pendant le défilement des détails.</li><li>Dimensions fixes du popup, du message et de la zone de journal.</li><li>Défilement automatique conservé sans effet de sautillement.</li></ul></body></html>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 21:34:52 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 21:44:39 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.2.7"
-        sparkle:shortVersionString="1.2.7"
-        sparkle:sha256="f97dafb2c77528cecb40ac9bc08612d405321755914c06177e0217afaa3f8977"
-        length="44951851"
+        sparkle:version="1.2.8"
+        sparkle:shortVersionString="1.2.8"
+        sparkle:sha256="efe1105870832368f56ded3b90cf64a03b0d7f1ae3d49b1fc31c84725b8c7b7c"
+        length="44960398"
         type="application/octet-stream" />
     </item>
   </channel>
