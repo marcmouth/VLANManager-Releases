@@ -7,27 +7,28 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.0.6</title>
+      <title>VLAN Manager 1.0.7</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v1.0.6</h2>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v1.0.7</title></head><body>
+<h1>VLAN Manager v1.0.7</h1>
 <ul>
-<li>Correction du menu Aide → Notes de version, qui affichait encore les nouveautés de la v0.7.1.</li>
-<li>Les notes sont désormais chargées depuis le fichier RELEASE_NOTES.html livré avec la version installée.</li>
-<li>Le titre et le numéro de version affichés sont automatiquement alignés sur la version courante.</li>
-<li>Ajout d’un message de secours clair si le fichier de notes est absent ou illisible.</li>
-</ul>
+<li>Ajout d’une barre de progression avec pourcentage et temps écoulé lors des actualisations F5 et Ctrl+F5.</li>
+<li>Actualisations réseau désormais annulables proprement depuis le lien Annuler.</li>
+<li>Nouvelle fenêtre Notes de version harmonisée avec le style graphique de la fenêtre de mise à jour.</li>
+<li>Affichage structuré de la version installée et des nouveautés dans une zone défilable.</li>
+</ul></body></html>
 
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 11:59:31 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 12:13:52 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.0.6"
-        sparkle:shortVersionString="1.0.6"
-        sparkle:sha256="067a3c28b040acf83581b875c4c7ab56391f142b3f37a3646290fc201c7c433d"
-        length="44919043"
+        sparkle:version="1.0.7"
+        sparkle:shortVersionString="1.0.7"
+        sparkle:sha256="8c0dd05b41748917ae213889d433a243fe91a06f365cf011028e6588e8a2e7b1"
+        length="44917805"
         type="application/octet-stream" />
     </item>
   </channel>
