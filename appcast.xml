@@ -7,20 +7,20 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.2.15</title>
+      <title>VLAN Manager 1.2.16</title>
 
       <description><![CDATA[
-<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.2.15</title></head><body><h1>VLAN Manager v1.2.15</h1><ul><li>Progression et étapes désormais synchronisées dans toutes les fenêtres d’opération.</li><li>La barre ne peut plus atteindre 100 % avant la fin réelle de l’opération.</li><li>Toutes les étapes sont affichées immédiatement, avec un texte fixe et uniquement les icônes qui évoluent.</li><li>Toutes les lignes sont validées avant l’affichage de la coche principale.</li><li>Corrections appliquées au diagnostic, à F5, à la santé réseau, aux routes DHCP et aux routes.</li><li>La coche verte reste visible deux secondes après son tracé.</li></ul></body></html>
+<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.2.16</title></head><body><h1>VLAN Manager v1.2.16</h1><ul><li>La liste des interfaces VLAN accepte désormais la sélection multiple avec Ctrl ou Maj.</li><li>Le bouton Supprimer indique le nombre d’interfaces sélectionnées.</li><li>Une confirmation récapitule toutes les interfaces avant la suppression groupée.</li><li>Chaque suppression est suivie individuellement dans la fenêtre de progression.</li><li>Une erreur isolée n’empêche pas le traitement des autres interfaces ; un bilan détaillé est affiché à la fin.</li><li>La configuration réseau et la liste des VLAN ne sont actualisées qu’une seule fois à la fin du lot.</li></ul></body></html>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 23:19:00 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 23:54:04 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.2.15"
-        sparkle:shortVersionString="1.2.15"
-        sparkle:sha256="26e73dcedd30b42b05714c4488e35ffb4b990c2dff8ec8b979b2868c731e6fe4"
-        length="44961578"
+        sparkle:version="1.2.16"
+        sparkle:shortVersionString="1.2.16"
+        sparkle:sha256="cf484059b4f00cffda15c3d40153b29a1da3f4beb654da262016b7f3d99262d2"
+        length="44961256"
         type="application/octet-stream" />
     </item>
   </channel>
