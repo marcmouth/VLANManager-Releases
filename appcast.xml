@@ -7,7 +7,7 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.2.11</title>
+      <title>VLAN Manager 1.2.12</title>
 
       <description><![CDATA[
 <!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.2.11</title></head><body><h1>VLAN Manager v1.2.11</h1><ul><li>Ascenseur masqué dans la liste des tâches du popup.</li><li>Défilement automatique des étapes conservé sans barre verticale visible.</li>  <li>Validation renforcée du VLAN ID (1 à 4094).</li>
@@ -17,14 +17,14 @@
 </ul></body></html>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 22:26:53 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 22:37:30 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.2.11"
-        sparkle:shortVersionString="1.2.11"
-        sparkle:sha256="b03e66094921e248d05eac1cfc9a934a696f726eced28a3a5ad5582e2c387154"
-        length="44953844"
+        sparkle:version="1.2.12"
+        sparkle:shortVersionString="1.2.12"
+        sparkle:sha256="2efaa7d5457c20c0464b026defe12d1089801c2798846f06683309118bc7eb5a"
+        length="44957967"
         type="application/octet-stream" />
     </item>
   </channel>
