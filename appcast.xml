@@ -7,27 +7,29 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.0.1</title>
+      <title>VLAN Manager 1.0.2</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v1.0.1</h2>
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v1.0.2</title></head><body>
+<h2>VLAN Manager v1.0.2</h2>
 <ul>
-  <li>Ajout d’un sous-menu dynamique <strong>Outils &gt; Scanner un réseau</strong>.</li>
-  <li>Liste automatique des réseaux IPv4 disponibles avec le nom de l’interface, le VLAN et la plage détectée.</li>
-  <li>Lancement direct du scanner sur le réseau choisi et accès rapide à une plage personnalisée.</li>
-  <li>Ajout d’un bouton <strong>Aide</strong> dans l’onglet Sites et inventaire.</li>
-  <li>Nouvelle fenêtre d’explications détaillées sur la création d’un site, l’inventaire, l’historique, la comparaison et les rapports.</li>
+<li>Nettoyage complet du dossier d’installation avant chaque mise à jour.</li>
+<li>Suppression des anciens fichiers, DLL, runtimes et ressources devenus inutiles depuis les versions précédentes.</li>
+<li>Conservation des profils, sites, inventaires, journaux, caches et sauvegardes stockés dans le profil utilisateur Windows.</li>
 </ul>
+</body></html>
+
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 10:40:53 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 10:49:42 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.0.1"
-        sparkle:shortVersionString="1.0.1"
-        sparkle:sha256="d1354ad55eb4d1f03644a65d91f502318bb123fd293b2dda78266fd04cc17b70"
-        length="44913597"
+        sparkle:version="1.0.2"
+        sparkle:shortVersionString="1.0.2"
+        sparkle:sha256="48e1d67d17f7388f382c12381da9af7a6c88c55f9966e1aeda28a0a1b0acd253"
+        length="44910582"
         type="application/octet-stream" />
     </item>
   </channel>
