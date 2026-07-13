@@ -7,20 +7,20 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.2.3</title>
+      <title>VLAN Manager 1.2.4</title>
 
       <description><![CDATA[
-<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.2.3</title></head><body><h1>VLAN Manager v1.2.3</h1><ul><li>Test Wake-on-LAN multi-méthodes : ping et ports TCP courants.</li><li>Méthode de confirmation enregistrée dans l’inventaire.</li><li>Panneau Sites clients réduit et espace Inventaire agrandi.</li></ul></body></html>
+<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.2.4</title></head><body><h1>VLAN Manager v1.2.4</h1><ul><li>Aide Sites et inventaire remplacée par un lien circulaire « ? ».</li><li>Boutons Nouveau, Enregistrer et Supprimer alignés sur une seule ligne.</li><li>Largeur des actions réduite et harmonisée.</li></ul></body></html>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 18:54:30 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 19:03:39 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.2.3"
-        sparkle:shortVersionString="1.2.3"
-        sparkle:sha256="06371e93fd7c95be7de710c74eb94fb3799c72097f7bf65957277cc52eb35245"
-        length="44949651"
+        sparkle:version="1.2.4"
+        sparkle:shortVersionString="1.2.4"
+        sparkle:sha256="118145944e2754ebe223e7915bb42f80a87b69c6b3639be5b55086b74d958895"
+        length="44953610"
         type="application/octet-stream" />
     </item>
   </channel>
