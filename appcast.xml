@@ -7,28 +7,29 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.0.16</title>
+      <title>VLAN Manager 1.1.0</title>
 
       <description><![CDATA[
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v1.0.16</title></head><body>
-<h1>VLAN Manager v1.0.16</h1>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v1.1.0 bêta</title></head><body>
+<h1>VLAN Manager v1.1.0 bêta</h1>
 <ul>
-<li>Suppression des onglets de la fenêtre Notes de version : navigation unique par liste chronologique.</li>
-<li>Version installée automatiquement sélectionnée et identifiée par le badge « Installée ».</li>
-<li>Fusion fiable des notes de la version actuelle avec l’historique complet.</li>
-<li>Disposition identique des commandes dans les onglets Santé réseau et Routes.</li>
-<li>Boutons « Corriger les routes DHCP » et « Actualiser » harmonisés avec dimensions identiques.</li>
+<li>Harmonisation globale des tailles de police, boutons, champs et listes déroulantes.</li>
+<li>Cadre principal des onglets avec angles arrondis cohérents avec le bandeau supérieur.</li>
+<li>Alignement précis des commandes Diagnostic, Scanner et Vérification IP.</li>
+<li>Bandeau de statut animé, affiché uniquement lorsqu’un message est présent.</li>
+<li>Installateur plus compact avec détails intégrés et défilement interne.</li>
+<li>Passe générale de finition visuelle avant stabilisation.</li>
 </ul></body></html>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 16:00:55 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 16:28:52 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.0.16"
-        sparkle:shortVersionString="1.0.16"
-        sparkle:sha256="6cf6dfbcda084770270fcbbfc39c1fc950644f9aec0fd76ab849f5e1e018bbd4"
-        length="44930354"
+        sparkle:version="1.1.0"
+        sparkle:shortVersionString="1.1.0"
+        sparkle:sha256="96e700494613d7ae214a7f672c94d4c43402dd5631b27825ae91df5827b36d1a"
+        length="44932458"
         type="application/octet-stream" />
     </item>
   </channel>
