@@ -7,24 +7,20 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.2.13</title>
+      <title>VLAN Manager 1.2.14</title>
 
       <description><![CDATA[
-<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.2.11</title></head><body><h1>VLAN Manager v1.2.11</h1><ul><li>Ascenseur masqué dans la liste des tâches du popup.</li><li>Défilement automatique des étapes conservé sans barre verticale visible.</li>  <li>Validation renforcée du VLAN ID (1 à 4094).</li>
-  <li>Saisie IPv4 filtrée et contrôlée pour l’adresse, la passerelle et les DNS.</li>
-  <li>Conversion dynamique du CIDR en masque de sous-réseau.</li>
-  <li>Avertissement convivial lorsqu’une interface existe déjà.</li>
-</ul></body></html>
+<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.2.14</title></head><body><h1>VLAN Manager v1.2.14</h1><ul><li>Le spinner se transforme en coche verte animée après chaque opération réussie.</li><li>La coche se dessine progressivement, sans effet de zoom.</li><li>La fenêtre reste visible environ une seconde après la validation, puis se ferme automatiquement.</li><li>La progression atteint 100 % avant l’animation.</li><li>Aucune coche de succès n’est affichée en cas d’erreur ou d’annulation.</li></ul></body></html>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 22:52:14 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 23:04:24 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.2.13"
-        sparkle:shortVersionString="1.2.13"
-        sparkle:sha256="6fd0a5f15ff2cbdb58200dba3b68abd337aba001fab10767b36b89421b2ef35f"
-        length="44961816"
+        sparkle:version="1.2.14"
+        sparkle:shortVersionString="1.2.14"
+        sparkle:sha256="d4a65b012e341a5f006aa354aab42802e70fcc24e069ed86ac56e5fb49f7532c"
+        length="44952574"
         type="application/octet-stream" />
     </item>
   </channel>
