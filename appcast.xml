@@ -7,29 +7,27 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.0.0</title>
+      <title>VLAN Manager 1.0.1</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v1.0.0</h2>
+<h2>VLAN Manager v1.0.1</h2>
 <ul>
-  <li>Première version stable de VLAN Manager.</li>
-  <li>Consolidation du moteur réseau centralisé, des caches ciblés et des actualisations différentielles.</li>
-  <li>Scanner réseau progressif avec découvertes ARP, ICMP, TCP, mDNS, SSDP, WS-Discovery, KNXnet/IP, BACnet/IP et ONVIF.</li>
-  <li>Gestion des sites, inventaire, historique et comparaison de scans.</li>
-  <li>Gestion fiable des vSwitch Hyper-V existants, sauvegardes avant opérations sensibles et outils de restauration.</li>
-  <li>Barre de menus, profils, diagnostics, rapports HTML, mises à jour intégrées et journal d’activité.</li>
-  <li>Quality Gate de publication et contrôles renforcés avant génération.</li>
+  <li>Ajout d’un sous-menu dynamique <strong>Outils &gt; Scanner un réseau</strong>.</li>
+  <li>Liste automatique des réseaux IPv4 disponibles avec le nom de l’interface, le VLAN et la plage détectée.</li>
+  <li>Lancement direct du scanner sur le réseau choisi et accès rapide à une plage personnalisée.</li>
+  <li>Ajout d’un bouton <strong>Aide</strong> dans l’onglet Sites et inventaire.</li>
+  <li>Nouvelle fenêtre d’explications détaillées sur la création d’un site, l’inventaire, l’historique, la comparaison et les rapports.</li>
 </ul>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 00:28:09 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 10:40:53 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.0.0"
-        sparkle:shortVersionString="1.0.0"
-        sparkle:sha256="3e427d85b29178fa87cf7bbf3d246b2740db2ebaa5bcbea927b3ffb484211679"
-        length="44914183"
+        sparkle:version="1.0.1"
+        sparkle:shortVersionString="1.0.1"
+        sparkle:sha256="d1354ad55eb4d1f03644a65d91f502318bb123fd293b2dda78266fd04cc17b70"
+        length="44913597"
         type="application/octet-stream" />
     </item>
   </channel>
