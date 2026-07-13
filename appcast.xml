@@ -7,28 +7,28 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.0.3</title>
+      <title>VLAN Manager 1.0.4</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v1.0.3</h2>
+<h2>VLAN Manager v1.0.4</h2>
 <ul>
-<li>Ajout d’un menu contextuel par clic droit sur les résultats du scanner.</li>
-<li>Copie rapide de l’IP, de la MAC, du nom d’hôte, du constructeur, du type, de l’identification et des services.</li>
-<li>Nouvelle commande pour copier toutes les informations d’un équipement en une seule fois.</li>
-<li>Fonction disponible dans l’onglet Scanner réseau et dans la fenêtre séparée des résultats.</li>
-<li>Nettoyage de l’arborescence source : les anciens documents de test sont rangés dans Docs/Historique.</li>
+  <li>Nouvelle progression détaillée au lancement de l'application.</li>
+  <li>Affichage de l'étape d'initialisation en cours.</li>
+  <li>Barre de progression pondérée et pourcentage visible.</li>
+  <li>Affichage du temps écoulé pendant le démarrage.</li>
+  <li>Interface maintenue réactive pendant la lecture Windows et Hyper-V.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 11:36:06 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 11:46:23 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.0.3"
-        sparkle:shortVersionString="1.0.3"
-        sparkle:sha256="c17482c1680bc65e86633de09b58f56264bb9af1a394b78ae4eb908b0a6e8852"
-        length="44911835"
+        sparkle:version="1.0.4"
+        sparkle:shortVersionString="1.0.4"
+        sparkle:sha256="9e82c2a6b3240978e41c43183b02752c42d3108bf2f5fe0b3166f7aefaa98bac"
+        length="44919598"
         type="application/octet-stream" />
     </item>
   </channel>
