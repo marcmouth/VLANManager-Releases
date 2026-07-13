@@ -7,28 +7,29 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.0.14</title>
+      <title>VLAN Manager 1.0.15</title>
 
       <description><![CDATA[
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v1.0.14</title></head><body>
-<h1>VLAN Manager v1.0.14</h1>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v1.0.15</title></head><body>
+<h1>VLAN Manager v1.0.15</h1>
 <ul>
-<li>Progression détaillée pour les diagnostics réseau et l’analyse de santé.</li>
-<li>Correction automatique au démarrage des routes DHCP indésirables sur les VLAN qui ignorent les routes par défaut.</li>
-<li>Boutons harmonisés et libellé unique « Corriger les routes DHCP » dans les onglets Santé réseau et Routes.</li>
-<li>Zone de détails de l’installateur intégrée proprement, sans débordement sur les boutons.</li>
-<li>Analyse des routes enrichie conservée avec progression et recommandations.</li>
+<li>Refonte graphique de la fenêtre Notes de version.</li>
+<li>Onglets harmonisés avec le style général de VLAN Manager.</li>
+<li>Historique trié automatiquement de la version la plus récente à la plus ancienne.</li>
+<li>Navigation par liste de versions et affichage détaillé de la version sélectionnée.</li>
+<li>Version installée clairement mise en évidence.</li>
 </ul></body></html>
+
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 15:33:18 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 15:46:11 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.0.14"
-        sparkle:shortVersionString="1.0.14"
-        sparkle:sha256="b9001e73597d009e1d837a2b663feb764a5b44228acfbffc9b4a7fe8c5f79628"
-        length="44934322"
+        sparkle:version="1.0.15"
+        sparkle:shortVersionString="1.0.15"
+        sparkle:sha256="be2e46a67367ab67d87b0ebbddd2860a48e44c5d838f29b23308d455d34afa23"
+        length="44946029"
         type="application/octet-stream" />
     </item>
   </channel>
