@@ -7,26 +7,27 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.0.5</title>
+      <title>VLAN Manager 1.0.6</title>
 
       <description><![CDATA[
-<h2>VLAN Manager v1.0.5</h2>
+<h2>VLAN Manager v1.0.6</h2>
 <ul>
-<li>Affichage permanent et discret de l’utilisation CPU et mémoire en haut de la fenêtre.</li>
-<li>Actualisation automatique toutes les secondes sans bloquer l’interface.</li>
-<li>Info-bulle détaillée avec mémoire du processus, mémoire .NET et nombre de processeurs logiques.</li>
+<li>Correction du menu Aide → Notes de version, qui affichait encore les nouveautés de la v0.7.1.</li>
+<li>Les notes sont désormais chargées depuis le fichier RELEASE_NOTES.html livré avec la version installée.</li>
+<li>Le titre et le numéro de version affichés sont automatiquement alignés sur la version courante.</li>
+<li>Ajout d’un message de secours clair si le fichier de notes est absent ou illisible.</li>
 </ul>
 
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 11:51:56 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 11:59:31 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.0.5"
-        sparkle:shortVersionString="1.0.5"
-        sparkle:sha256="36f39e456125fd33cf061e85f0401791c5a59eec5b8850b05dabdea3aab2a4d5"
-        length="44920243"
+        sparkle:version="1.0.6"
+        sparkle:shortVersionString="1.0.6"
+        sparkle:sha256="067a3c28b040acf83581b875c4c7ab56391f142b3f37a3646290fc201c7c433d"
+        length="44919043"
         type="application/octet-stream" />
     </item>
   </channel>
