@@ -7,28 +7,29 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.0.8</title>
+      <title>VLAN Manager 1.0.9</title>
 
       <description><![CDATA[
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v1.0.8</title></head><body>
-<h1>VLAN Manager v1.0.8</h1>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager v1.0.9</title></head><body>
+<h1>VLAN Manager v1.0.9</h1>
 <ul>
-<li>Sélection multiple des résultats du scanner avec Ctrl et Maj.</li>
-<li>Menu contextuel complet dans Sites et inventaire, avec Wake-on-LAN.</li>
-<li>Nouvelle fenêtre de ping détaillée avec progression, temps écoulé et résultat harmonisé.</li>
-<li>Correction du crash lors du double-clic ou de la modification d’une fiche d’inventaire.</li>
+<li>Menu contextuel enrichi dans les résultats du scanner principal et dans la fenêtre séparée.</li>
+<li>Ajout direct d’un ou plusieurs équipements sélectionnés à l’inventaire du site actif.</li>
+<li>Raccourcis contextuels pour ping détaillé, HTTP, HTTPS, Wake-on-LAN et préparation des tests métier.</li>
+<li>Prise en charge de la sélection multiple pour l’ajout à l’inventaire et le Wake-on-LAN.</li>
+<li>Messages clairs lorsqu’aucun site actif, aucune MAC ou aucune interface source exploitable n’est disponible.</li>
 </ul></body></html>
 
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 12:58:26 +02:00</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:50:41 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.0.8"
-        sparkle:shortVersionString="1.0.8"
-        sparkle:sha256="d72a275db4125b6184355ff01d608645ec3744b97093df1ca2c9a66004682cf1"
-        length="44919332"
+        sparkle:version="1.0.9"
+        sparkle:shortVersionString="1.0.9"
+        sparkle:sha256="5649678a05717e7fdd1e8ee8e6d2df90517282ee0bc41607441672ee0b5e72c4"
+        length="44931713"
         type="application/octet-stream" />
     </item>
   </channel>
