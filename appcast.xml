@@ -7,20 +7,22 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.3.2</title>
+      <title>VLAN Manager 1.3.3</title>
 
       <description><![CDATA[
-<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.3.2</title></head><body><h1>VLAN Manager v1.3.2</h1><ul><li>Popup de téléchargement compact.</li><li>Spinner d’initialisation plus fluide.</li><li>Préférences avec navigation par boutons.</li><li>Thème sombre et densité compacte pris en compte.</li><li>Bouton de recherche de mise à jour redimensionné.</li><li>Nouvelle flèche ⟳ pour l’actualisation de l’IP publique.</li></ul></body></html>
+<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.3.2</title></head><body>
+<h2>Version 1.3.3</h2>
+<ul><li>Initialisation asynchrone pour un spinner plus fluide.</li><li>Thème sombre retravaillé et homogénéisé.</li><li>Détection du thème système améliorée.</li></ul><h1>VLAN Manager v1.3.2</h1><ul><li>Popup de téléchargement compact.</li><li>Spinner d’initialisation plus fluide.</li><li>Préférences avec navigation par boutons.</li><li>Thème sombre et densité compacte pris en compte.</li><li>Bouton de recherche de mise à jour redimensionné.</li><li>Nouvelle flèche ⟳ pour l’actualisation de l’IP publique.</li></ul></body></html>
       ]]></description>
 
-      <pubDate>Thu, 16 Jul 2026 20:37:57 +02:00</pubDate>
+      <pubDate>Thu, 16 Jul 2026 21:33:57 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.3.2"
-        sparkle:shortVersionString="1.3.2"
-        sparkle:sha256="fc7d224135085091858926b17aed8569572f84d6fd6e7ee601953916bacb4703"
-        length="44970011"
+        sparkle:version="1.3.3"
+        sparkle:shortVersionString="1.3.3"
+        sparkle:sha256="ee593a3ce774328e475353a67f0767c3a9c7afcaca9dd31b056a61354f2c54d2"
+        length="44973933"
         type="application/octet-stream" />
     </item>
   </channel>
