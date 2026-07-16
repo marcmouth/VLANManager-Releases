@@ -7,9 +7,16 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.3.6</title>
+      <title>VLAN Manager 1.3.7</title>
 
       <description><![CDATA[
+<h2>VLAN Manager 1.3.7 bêta</h2>
+<ul>
+<li>Restauration exacte de l’identité visuelle du thème clair, avec les titres bleus historiques.</li>
+<li>Barre de menus compacte et sans encadrements.</li>
+<li>Nouvelle passe de contraste et de cohérence sur le thème sombre.</li>
+<li>Amélioration des menus, listes, tableaux, champs et fenêtres secondaires en mode sombre.</li>
+</ul>
 <h2>VLAN Manager 1.3.6 bêta</h2>
 <ul>
   <li>Séparation complète des canaux Stable et Bêta.</li>
@@ -21,14 +28,14 @@
 
       ]]></description>
 
-      <pubDate>Thu, 16 Jul 2026 22:14:03 +02:00</pubDate>
+      <pubDate>Thu, 16 Jul 2026 22:23:48 +02:00</pubDate>
 
       <enclosure
-        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.6/VLANManager-Setup.exe"
-        sparkle:version="1.3.6"
-        sparkle:shortVersionString="1.3.6"
-        sparkle:sha256="5e53ffe1658418a54585bf979d0e8a950d681456c52ff1dada15262386915f75"
-        length="44971293"
+        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.7/VLANManager-Setup.exe"
+        sparkle:version="1.3.7"
+        sparkle:shortVersionString="1.3.7"
+        sparkle:sha256="a0e7f627d9f171b1f6c3a01ea3e776c9e7ff0d51afc9e014eda594b82a188324"
+        length="44977821"
         type="application/octet-stream" />
     </item>
   </channel>
