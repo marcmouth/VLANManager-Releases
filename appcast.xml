@@ -7,20 +7,20 @@
     <language>fr-fr</language>
 
     <item>
-      <title>VLAN Manager 1.2.16</title>
+      <title>VLAN Manager 1.2.17</title>
 
       <description><![CDATA[
-<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.2.16</title></head><body><h1>VLAN Manager v1.2.16</h1><ul><li>La liste des interfaces VLAN accepte désormais la sélection multiple avec Ctrl ou Maj.</li><li>Le bouton Supprimer indique le nombre d’interfaces sélectionnées.</li><li>Une confirmation récapitule toutes les interfaces avant la suppression groupée.</li><li>Chaque suppression est suivie individuellement dans la fenêtre de progression.</li><li>Une erreur isolée n’empêche pas le traitement des autres interfaces ; un bilan détaillé est affiché à la fin.</li><li>La configuration réseau et la liste des VLAN ne sont actualisées qu’une seule fois à la fin du lot.</li></ul></body></html>
+<!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.2.17</title></head><body><h1>VLAN Manager v1.2.17</h1><ul><li>CPU, RAM et version affichés sur trois lignes.</li><li>Affichage de l’adresse IP publique active dans Connexion principale.</li><li>Chargement de l’IP publique asynchrone et protégé par délai.</li><li>Démarrage renforcé pour les configurations avec VPN, tunnels ou routes atypiques.</li><li>Journalisation locale des erreurs inattendues sans fermeture pour les erreurs récupérables.</li></ul></body></html>
       ]]></description>
 
-      <pubDate>Mon, 13 Jul 2026 23:54:04 +02:00</pubDate>
+      <pubDate>Thu, 16 Jul 2026 10:37:14 +02:00</pubDate>
 
       <enclosure
         url="https://github.com/marcmouth/VLANManager-Releases/releases/latest/download/VLANManager-Setup.exe"
-        sparkle:version="1.2.16"
-        sparkle:shortVersionString="1.2.16"
-        sparkle:sha256="cf484059b4f00cffda15c3d40153b29a1da3f4beb654da262016b7f3d99262d2"
-        length="44961256"
+        sparkle:version="1.2.17"
+        sparkle:shortVersionString="1.2.17"
+        sparkle:sha256="616d866ce3f8bcb2309183dec04d8ab1fef1ed4bf7f25b502659fd7d5a4f5413"
+        length="44966913"
         type="application/octet-stream" />
     </item>
   </channel>
