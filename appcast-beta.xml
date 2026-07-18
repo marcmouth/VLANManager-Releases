@@ -7,17 +7,17 @@
     <sparkle:channel>beta</sparkle:channel>
     <language>fr-fr</language>
     <item>
-      <title>VLAN Manager 1.3.14-beta</title>
+      <title>VLAN Manager 1.3.15-beta</title>
       <description><![CDATA[
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager 1.3.14-beta</title></head><body><h1>VLAN Manager 1.3.14 bêta</h1><ul><li>Correction partagée du moteur de mise à jour pour préserver les suffixes de préversion.</li><li>Aucune autre modification fonctionnelle.</li></ul></body></html>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager 1.3.15-beta</title></head><body><h1>VLAN Manager 1.3.15 bêta</h1><ul><li>Interface de mise à jour entièrement partagée avec PDF Compressor.</li><li>Mêmes fenêtres de disponibilité, téléchargement, progression et annulation.</li><li>Orchestration centralisée dans les composants partagés Marcmouth Suite.</li><li>Aucune modification des fonctions réseau.</li></ul></body></html>
       ]]></description>
-      <pubDate>Sun, 19 Jul 2026 00:19:16 +02:00</pubDate>
+      <pubDate>Sun, 19 Jul 2026 00:28:49 +02:00</pubDate>
       <enclosure
-        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.14-beta/VLANManager-Setup.exe"
-        sparkle:version="1.3.14-beta"
-        sparkle:shortVersionString="1.3.14-beta"
-        sparkle:sha256="d981d462fe67f75eb44d15576bb3a217d517e832692058098a3aaf5a71dd4f80"
-        length="45010438"
+        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.15-beta/VLANManager-Setup.exe"
+        sparkle:version="1.3.15-beta"
+        sparkle:shortVersionString="1.3.15-beta"
+        sparkle:sha256="caabcfa2a17a9d84bf8985855624eba9bc07c3dc5ac5c148c098769d367c8b27"
+        length="45012422"
         type="application/octet-stream" />
     </item>
   </channel>
