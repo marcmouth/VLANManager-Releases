@@ -7,17 +7,17 @@
     <sparkle:channel>beta</sparkle:channel>
     <language>fr-fr</language>
     <item>
-      <title>VLAN Manager 1.3.10</title>
+      <title>VLAN Manager 1.3.10-beta</title>
       <description><![CDATA[
 <!doctype html><html><head><meta charset="utf-8"><title>VLAN Manager v1.3.9 bêta</title></head><body><h1>VLAN Manager v1.3.9 bêta</h1><ul><li>Remplacement du bouton texte d’actualisation de l’IP publique par une icône ronde ⟳, sans cadre.</li><li>Suppression du mode d’affichage compact et de son réglage.</li><li>Application immédiate du canal Stable ou Bêta choisi dans les Préférences.</li><li>Validation du canal déclaré dans chaque appcast afin d’empêcher le mélange entre versions stables et bêta.</li><li>Conservation de la vérification SHA-256 locale, GitHub et appcast avant publication.</li></ul></body></html>
       ]]></description>
-      <pubDate>Sat, 18 Jul 2026 11:44:24 +02:00</pubDate>
+      <pubDate>Sat, 18 Jul 2026 12:20:30 +02:00</pubDate>
       <enclosure
-        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.10/VLANManager-Setup.exe"
-        sparkle:version="1.3.10"
-        sparkle:shortVersionString="1.3.10"
-        sparkle:sha256="3a47c28713d05d76b1996de872c9e1561693d60e053405ed43717c119012e61b"
-        length="45012888"
+        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.10-beta/VLANManager-Setup.exe"
+        sparkle:version="1.3.10-beta"
+        sparkle:shortVersionString="1.3.10-beta"
+        sparkle:sha256="c515792066b8c9458300e882a96effc89d484291519cac3a4929ad8b83c5914a"
+        length="45013150"
         type="application/octet-stream" />
     </item>
   </channel>
