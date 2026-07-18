@@ -7,22 +7,23 @@
     <sparkle:channel>beta</sparkle:channel>
     <language>fr-fr</language>
     <item>
-      <title>VLAN Manager 1.3.12-beta</title>
+      <title>VLAN Manager 1.3.13-beta</title>
       <description><![CDATA[
-<h2>VLAN Manager 1.3.12-beta</h2>
+<h2>VLAN Manager 1.3.13-beta</h2>
 <ul>
-  <li>Uniformisation de la structure des fichiers et scripts de la suite.</li>
-  <li>Compilation systematique par Publish-Suite, meme si la version GitHub existe deja.</li>
+  <li>Version de test du moteur de mise à jour partagé.</li>
+  <li>Aucune nouvelle fonctionnalité.</li>
+  <li>Validation du téléchargement, du contrôle SHA-256 et du lancement de l’installateur.</li>
 </ul>
 
       ]]></description>
-      <pubDate>Sat, 18 Jul 2026 12:52:34 +02:00</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:54:25 +02:00</pubDate>
       <enclosure
-        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.12-beta/VLANManager-Setup.exe"
-        sparkle:version="1.3.12-beta"
-        sparkle:shortVersionString="1.3.12-beta"
-        sparkle:sha256="7791e441c91061e04fc4ebd282e5477832620cd2c2eb28eb5aa864852a5dce08"
-        length="45020216"
+        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.13-beta/VLANManager-Setup.exe"
+        sparkle:version="1.3.13-beta"
+        sparkle:shortVersionString="1.3.13-beta"
+        sparkle:sha256="3fc25e207e43ea72bcb89dcef5cd93b3c7b63300594190c6356cd60cc2c4d4d5"
+        length="45021357"
         type="application/octet-stream" />
     </item>
   </channel>
