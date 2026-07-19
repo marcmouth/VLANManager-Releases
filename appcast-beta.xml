@@ -7,29 +7,20 @@
     <sparkle:channel>beta</sparkle:channel>
     <language>fr-fr</language>
     <item>
-      <title>VLAN Manager 1.3.27-beta</title>
+      <title>VLAN Manager 1.3.28-beta</title>
       <description><![CDATA[
 <!DOCTYPE html>
-<html lang="fr">
-<head><meta charset="utf-8"><title>VLAN Manager 1.3.27-beta</title></head>
-<body>
-<h1>VLAN Manager 1.3.27-beta</h1>
-<ul>
-<li>Installation dans C:\Program Files\Marcmouth Suite\VLAN Manager.</li>
-<li>Migration automatique depuis l’ancien dossier HENRI.</li>
-<li>Aucune modification fonctionnelle.</li>
-</ul>
-</body>
-</html>
+<html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager 1.3.28-beta</title></head>
+<body><h1>VLAN Manager 1.3.28-beta</h1><p>Cette version ajoute une fenêtre commune permettant de consulter et d’installer toutes les versions disponibles sur GitHub.</p><ul><li>Affichage des versions stables et bêta.</li><li>Filtre des préversions et des versions antérieures.</li><li>Installation ou réinstallation de la version choisie.</li><li>Avertissement avant un retour à une ancienne version.</li><li>Contrôle SHA-256 lorsque disponible.</li></ul></body></html>
 
       ]]></description>
-      <pubDate>Sun, 19 Jul 2026 11:38:18 +02:00</pubDate>
+      <pubDate>Sun, 19 Jul 2026 12:29:32 +02:00</pubDate>
       <enclosure
-        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.27-beta/VLANManager-Setup.exe"
-        sparkle:version="1.3.27-beta"
-        sparkle:shortVersionString="1.3.27-beta"
-        sparkle:sha256="95c355c938d2579b5d2b192cb70401e758c6605c8c42fc6271b7b9483ec51193"
-        length="45019275"
+        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.28-beta/VLANManager-Setup.exe"
+        sparkle:version="1.3.28-beta"
+        sparkle:shortVersionString="1.3.28-beta"
+        sparkle:sha256="52772095b017d7afc011050037a4be3294a540146675b29dadb5096d7602f2cc"
+        length="45024457"
         type="application/octet-stream" />
     </item>
   </channel>
