@@ -7,17 +7,17 @@
     <sparkle:channel>beta</sparkle:channel>
     <language>fr-fr</language>
     <item>
-      <title>VLAN Manager 1.3.17-beta</title>
+      <title>VLAN Manager 1.3.18-beta</title>
       <description><![CDATA[
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>1.3.17-beta</title></head><body><h2>VLANManager 1.3.17-beta</h2><p>Unification des dialogues et de la barre de statut.</p><ul><li>Fenêtres Information, Succès, Avertissement, Erreur et Confirmation harmonisées.</li><li>Libellés et boutons centralisés.</li><li>Barre de statut commune avec états visuels.</li><li>Gestion partagée des erreurs inattendues.</li></ul></body></html>
+<h2>1.3.18-beta</h2><p><strong>Registre commun des applications</strong></p><p>Centralisation des métadonnées de build et de publication de toute la suite.</p>
       ]]></description>
-      <pubDate>Sun, 19 Jul 2026 01:00:07 +02:00</pubDate>
+      <pubDate>Sun, 19 Jul 2026 10:15:13 +02:00</pubDate>
       <enclosure
-        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.17-beta/VLANManager-Setup.exe"
-        sparkle:version="1.3.17-beta"
-        sparkle:shortVersionString="1.3.17-beta"
-        sparkle:sha256="2adbca554a16a5272604a5bc491de1a1e2add0c418f2f74b23e03bd936c068ca"
-        length="45015381"
+        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.18-beta/VLANManager-Setup.exe"
+        sparkle:version="1.3.18-beta"
+        sparkle:shortVersionString="1.3.18-beta"
+        sparkle:sha256="bcf3a01a577246456426d9a7ff0fe648e50a0ebcb29297ee7728c2a2281bd04d"
+        length="45015148"
         type="application/octet-stream" />
     </item>
   </channel>
