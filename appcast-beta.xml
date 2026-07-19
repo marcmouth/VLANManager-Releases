@@ -7,18 +7,28 @@
     <sparkle:channel>beta</sparkle:channel>
     <language>fr-fr</language>
     <item>
-      <title>VLAN Manager 1.3.25-beta</title>
+      <title>VLAN Manager 1.3.26-beta</title>
       <description><![CDATA[
-<h2>1.3.25-beta</h2><p><strong>Progression de téléchargement enrichie</strong></p><p>La fenêtre commune de mise à jour affiche désormais la vitesse, le volume téléchargé, la taille totale et une estimation du temps restant.</p>
+<!DOCTYPE html>
+<html lang="fr">
+<head><meta charset="utf-8"><title>VLANManager 1.3.26-beta</title></head>
+<body>
+<h1>VLANManager 1.3.26-beta</h1>
+<ul>
+<li>Version technique destinée uniquement à tester le moteur de mise à jour partagé de Marcmouth Suite.</li>
+<li>Aucune modification fonctionnelle.</li>
+</ul>
+</body>
+</html>
 
       ]]></description>
-      <pubDate>Sun, 19 Jul 2026 10:48:35 +02:00</pubDate>
+      <pubDate>Sun, 19 Jul 2026 11:01:44 +02:00</pubDate>
       <enclosure
-        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.25-beta/VLANManager-Setup.exe"
-        sparkle:version="1.3.25-beta"
-        sparkle:shortVersionString="1.3.25-beta"
-        sparkle:sha256="33970811a9aa89627930ecb583c3505f20beb7c38488e9b3b375eed268eaa733"
-        length="45023795"
+        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.26-beta/VLANManager-Setup.exe"
+        sparkle:version="1.3.26-beta"
+        sparkle:shortVersionString="1.3.26-beta"
+        sparkle:sha256="31f1b4c5d025b0a2f29e8c7668ed205e01542d9f3a3f13f4bdf379c6525a5c1f"
+        length="45017095"
         type="application/octet-stream" />
     </item>
   </channel>
