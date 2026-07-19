@@ -7,20 +7,20 @@
     <sparkle:channel>stable</sparkle:channel>
     <language>fr-fr</language>
     <item>
-      <title>VLAN Manager 1.4.1</title>
+      <title>VLAN Manager 1.4.2</title>
       <description><![CDATA[
 <!DOCTYPE html>
-<html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager 1.4.1</title></head>
-<body><h1>VLAN Manager 1.4.1</h1><ul><li>Le canal bêta inclut désormais les versions stables.</li><li>La recherche de mise à jour demande toujours confirmation avant le téléchargement et l’installation.</li></ul></body></html>
+<html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager 1.4.2</title></head>
+<body><h1>VLAN Manager 1.4.2</h1><ul><li>Version technique de validation du parcours de mise à jour.</li><li>La recherche de mise à jour doit afficher la fenêtre de confirmation avant tout téléchargement.</li><li>Aucune modification fonctionnelle supplémentaire.</li></ul></body></html>
 
       ]]></description>
-      <pubDate>Sun, 19 Jul 2026 13:28:27 +02:00</pubDate>
+      <pubDate>Sun, 19 Jul 2026 15:07:33 +02:00</pubDate>
       <enclosure
-        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.4.1/VLANManager-Setup.exe"
-        sparkle:version="1.4.1"
-        sparkle:shortVersionString="1.4.1"
-        sparkle:sha256="8f4f3197093114b8b17202a4c8f094cb4af57ab7265ae238f5f1e694e9191e76"
-        length="45030371"
+        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.4.2/VLANManager-Setup.exe"
+        sparkle:version="1.4.2"
+        sparkle:shortVersionString="1.4.2"
+        sparkle:sha256="2eb6436be74f0e6d88a933a033af0362273186996c7380dca8e3b6fc488610e5"
+        length="45022810"
         type="application/octet-stream" />
     </item>
   </channel>
