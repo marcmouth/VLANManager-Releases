@@ -7,17 +7,17 @@
     <sparkle:channel>beta</sparkle:channel>
     <language>fr-fr</language>
     <item>
-      <title>VLAN Manager 1.3.20-beta</title>
+      <title>VLAN Manager 1.3.21-beta</title>
       <description><![CDATA[
-<h2>1.3.20-beta</h2><p><strong>Générateur de nouveaux logiciels</strong></p><p>Ajout d’un assistant créant automatiquement une application conforme au socle Marcmouth.</p>
+<h2>1.3.21-beta</h2><p><strong>Garde-fous d’architecture</strong></p><p>Ajout d’un audit automatique empêchant les duplications et divergences entre logiciels.</p>
       ]]></description>
-      <pubDate>Sun, 19 Jul 2026 10:22:22 +02:00</pubDate>
+      <pubDate>Sun, 19 Jul 2026 10:26:10 +02:00</pubDate>
       <enclosure
-        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.20-beta/VLANManager-Setup.exe"
-        sparkle:version="1.3.20-beta"
-        sparkle:shortVersionString="1.3.20-beta"
-        sparkle:sha256="24ce8419e8926eee6a935009016297c83d98562234a8c0267d44ff9a814c60d5"
-        length="45017300"
+        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.21-beta/VLANManager-Setup.exe"
+        sparkle:version="1.3.21-beta"
+        sparkle:shortVersionString="1.3.21-beta"
+        sparkle:sha256="b2c09a8c8f05d313f55f28bcbf55d9fd4156e7230a26cb760ae0da21a09e14d5"
+        length="45018971"
         type="application/octet-stream" />
     </item>
   </channel>
