@@ -7,20 +7,24 @@
     <sparkle:channel>beta</sparkle:channel>
     <language>fr-fr</language>
     <item>
-      <title>VLAN Manager 1.3.28-beta</title>
+      <title>VLAN Manager 1.3.29-beta</title>
       <description><![CDATA[
 <!DOCTYPE html>
-<html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager 1.3.28-beta</title></head>
-<body><h1>VLAN Manager 1.3.28-beta</h1><p>Cette version ajoute une fenêtre commune permettant de consulter et d’installer toutes les versions disponibles sur GitHub.</p><ul><li>Affichage des versions stables et bêta.</li><li>Filtre des préversions et des versions antérieures.</li><li>Installation ou réinstallation de la version choisie.</li><li>Avertissement avant un retour à une ancienne version.</li><li>Contrôle SHA-256 lorsque disponible.</li></ul></body></html>
+<html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager 1.3.29-beta</title></head>
+<body><h1>VLAN Manager 1.3.29-beta</h1><ul>
+<li>Affichage propre des notes de version dans le sélecteur de versions.</li>
+<li>Conversion automatique du HTML en texte lisible avec puces.</li>
+<li>Zone de notes redimensionnée et défilable.</li>
+</ul></body></html>
 
       ]]></description>
-      <pubDate>Sun, 19 Jul 2026 12:29:32 +02:00</pubDate>
+      <pubDate>Sun, 19 Jul 2026 12:42:53 +02:00</pubDate>
       <enclosure
-        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.28-beta/VLANManager-Setup.exe"
-        sparkle:version="1.3.28-beta"
-        sparkle:shortVersionString="1.3.28-beta"
-        sparkle:sha256="52772095b017d7afc011050037a4be3294a540146675b29dadb5096d7602f2cc"
-        length="45024457"
+        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.3.29-beta/VLANManager-Setup.exe"
+        sparkle:version="1.3.29-beta"
+        sparkle:shortVersionString="1.3.29-beta"
+        sparkle:sha256="960ae0231ac8ecc716b8d6bb817158340713965454d6413127d7e2d77ba69a00"
+        length="45028367"
         type="application/octet-stream" />
     </item>
   </channel>
