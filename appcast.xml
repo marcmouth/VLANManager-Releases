@@ -7,17 +7,20 @@
     <sparkle:channel>stable</sparkle:channel>
     <language>fr-fr</language>
     <item>
-      <title>VLAN Manager 1.4.0</title>
+      <title>VLAN Manager 1.4.1</title>
       <description><![CDATA[
-<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager 1.4.0</title></head><body><h1>VLAN Manager 1.4.0</h1><ul><li>Première version stable de la branche 1.4.</li><li>Interface, fenêtres de progression et système de mise à jour unifiés avec Marcmouth Suite.</li><li>Ajout du navigateur de versions GitHub avec installation ou retour vers une version antérieure.</li><li>Affichage d’un spinner pendant le chargement des releases.</li><li>Avertissement renforcé avant un retour vers une ancienne version pouvant ne pas proposer le sélecteur de versions.</li><li>Installation dans C:\Program Files\Marcmouth Suite\VLAN Manager.</li></ul></body></html>
+<!DOCTYPE html>
+<html lang="fr"><head><meta charset="utf-8"><title>VLAN Manager 1.4.1</title></head>
+<body><h1>VLAN Manager 1.4.1</h1><ul><li>Le canal bêta inclut désormais les versions stables.</li><li>La recherche de mise à jour demande toujours confirmation avant le téléchargement et l’installation.</li></ul></body></html>
+
       ]]></description>
-      <pubDate>Sun, 19 Jul 2026 13:05:30 +02:00</pubDate>
+      <pubDate>Sun, 19 Jul 2026 13:28:27 +02:00</pubDate>
       <enclosure
-        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.4.0/VLANManager-Setup.exe"
-        sparkle:version="1.4.0"
-        sparkle:shortVersionString="1.4.0"
-        sparkle:sha256="50bb26c1116741cb4a9caa6dfc2bf26ef7d3de6e482ddb9b763e41e6a5539023"
-        length="45031283"
+        url="https://github.com/marcmouth/VLANManager-Releases/releases/download/v1.4.1/VLANManager-Setup.exe"
+        sparkle:version="1.4.1"
+        sparkle:shortVersionString="1.4.1"
+        sparkle:sha256="8f4f3197093114b8b17202a4c8f094cb4af57ab7265ae238f5f1e694e9191e76"
+        length="45030371"
         type="application/octet-stream" />
     </item>
   </channel>
